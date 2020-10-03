@@ -1,0 +1,5 @@
+/* I thought I'd try to center the jumbotron text, but the following didn't work */
+
+h1 {
+  text-align: center;
+}
